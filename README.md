@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Muhammad Muneeb
 
-🚀 Senior Software Engineer | Backend Architect | Multi-Tenant Systems Specialist
-🌍 Building scalable SaaS, AI-powered platforms & marketplace ecosystems
+🚀 Senior Software Engineer | Backend Architect | Multi-Tenant Systems Specialist<br>
+🌍 Building scalable SaaS, AI-powered platforms & marketplace ecosystems<br>
 📍 Faisalabad, Pakistan
 
 ---
 
 # 📬 Connect With Me
 
-📧 [mmuneeb2807@gmail.com](mailto:mmuneeb2807@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/muhammad.muneeb.n.2025)
-💼 LinkedIn: [https://linkedin.com/in/muhammad-muneeb-109ab6231](https://linkedin.com/in/muhammad-muneeb-109ab6231)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/muhammad.muneeb.n.2025) <br>
+📧 [mmuneeb2807@gmail.com](mailto:mmuneeb2807@gmail.com) <br>
+💼 LinkedIn: [https://linkedin.com/in/muhammad-muneeb-109ab6231](https://linkedin.com/in/muhammad-muneeb-109ab6231) <br>
 🐙 GitHub: [https://github.com/muneebdev47](https://github.com/muneebdev47)
 
 ---
