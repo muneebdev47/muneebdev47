@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Muneeb
+# 👋 Hi, I'm Muhammad Muneeb N.
 
 🚀 Senior Software Engineer | Backend Architect | Multi-Tenant Systems Specialist<br>
 🌍 Building scalable SaaS, AI-powered platforms & marketplace ecosystems<br>
@@ -9,30 +9,22 @@
 # 📬 Connect With Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/muhammad.muneeb.n.2025) <br>
+📱 +92-325-6000-110 <br>
 📧 [mmuneeb2807@gmail.com](mailto:mmuneeb2807@gmail.com) <br>
-💼 LinkedIn: [https://linkedin.com/in/muhammad-muneeb-109ab6231](https://linkedin.com/in/muhammad-muneeb-109ab6231) <br>
-🐙 GitHub: [https://github.com/muneebdev47](https://github.com/muneebdev47)
+🐙 [https://github.com/muneebdev47](https://github.com/muneebdev47) <br>
+💼 [https://linkedin.com/in/muhammad-muneeb-109ab6231](https://linkedin.com/in/muhammad-muneeb-109ab6231) <br>
 
 ---
 
 ## 🚀 About Me
 
-I’m a Backend Engineer with 4+ years of experience designing scalable APIs, distributed systems, and marketplace integrations.
+I’m a Backend Engineer with 4+ years of experience building scalable web applications and high-performance APIs. I mainly work with Python (FastAPI, Django, Flask) and have strong experience in distributed systems, multi-tenant architectures, and marketplace integrations.
 
-Currently working at **Maxenius** building **Maxventory** — a centralized multi-tenant inventory system integrated with:
+I’ve worked across fintech, e-commerce, healthcare, SaaS, and AI-driven platforms. I contributed to IntelliScan Finance, a FastAPI-based system that extracts structured insights from complex financial documents to help banks assess clients automatically.
 
-* eBay
-* Depop
-* Vinted
-* Shopify
+Currently at **Maxenius**, I’m building Maxventory — a multi-tenant inventory system integrated with eBay, Depop, Vinted, and Shopify. I designed the marketplace synchronization architecture and developed custom plug-ins to automate listing, updates, and cross-platform selling.
 
-I specialize in:
-
-* Multi-tenant architecture
-* High-performance FastAPI systems
-* AI-integrated backend workflows
-* Marketplace plug-in architecture
-* DevOps & scalable cloud infrastructure
+I also have experience with AI automation, CI/CD pipelines, Nginx deployments, and cloud infrastructure on AWS, Azure, and DigitalOcean. I’ve led small teams, worked with cross-functional groups, and aligned technical work with business goals in fast-paced startup environments.
 
 ---
 
