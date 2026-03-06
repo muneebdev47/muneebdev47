@@ -8,7 +8,7 @@
 
 # 📬 Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/muhammad.muneeb.n.2025) <br>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/muhammad.muneeb.n.2025) <br>
 📱 +92-325-6000-110 <br>
 📧 [mmuneeb2807@gmail.com](mailto:mmuneeb2807@gmail.com) <br>
 🐙 [https://github.com/muneebdev47](https://github.com/muneebdev47) <br>
