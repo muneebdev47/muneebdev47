@@ -12,7 +12,7 @@
 📱 +92-325-6000-110 <br>
 📧 [mmuneeb2807@gmail.com](mailto:mmuneeb2807@gmail.com) <br>
 🐙 [https://github.com/muneebdev47](https://github.com/muneebdev47) <br>
-💼 [https://linkedin.com/in/muhammad-muneeb-109ab6231](https://linkedin.com/in/muhammad-muneeb-109ab6231) <br>
+💼 [https://linkedin.com/in/muhammad-muneeb-109ab6231/](https://www.linkedin.com/in/muhammad-muneeb-naeem-109ab6231/) <br>
 
 ---
 
